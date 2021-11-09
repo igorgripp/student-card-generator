@@ -1,6 +1,5 @@
 from PIL import Image, ImageFont, ImageDraw
 import pandas as pd
-import numpy as np
 import os
 
 # Coordenadas dos campos que serão colocadas no background guia
