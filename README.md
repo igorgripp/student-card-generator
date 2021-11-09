@@ -1,2 +1,2 @@
-# student-card-generator
-Student card generator for schools
+# Student Card Generator
+Sistema de geração de carteirinha de estudante.
